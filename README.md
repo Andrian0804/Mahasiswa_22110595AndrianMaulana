@@ -27,10 +27,9 @@ Setiap mahasiswa memiliki satu nilai yang bisa diinput dan diedit, cocok untuk m
 ## 🛠 Aplikasi yang Digunakan
 
 - Java (JDK 8+)
-- Netbeasn IDE
+- Netbeans IDE
 - Apache Tomcat 8/9
 - MySQL
-- Bootstrap 5 (untuk tampilan antarmuka)
 - JDBC (untuk koneksi database)
 
 
