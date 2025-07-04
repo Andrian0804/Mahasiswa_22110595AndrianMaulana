@@ -21,6 +21,7 @@ Aplikasi web berbasis **JSP + Servlet + MySQL** untuk mengelola data mahasiswa s
   Menghapus data mahasiswa dari database.
 
 - **Manajemen Nilai Mahasiswa**
+  
 Setiap mahasiswa memiliki satu nilai yang bisa diinput dan diedit, cocok untuk merekap nilai ujian, tugas.
 
 ## 🛠 Aplikasi yang Digunakan
