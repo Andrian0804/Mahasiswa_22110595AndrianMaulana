@@ -6,7 +6,7 @@ Aplikasi web berbasis **JSP + Servlet + MySQL** untuk mengelola data mahasiswa s
 
 ---
 
-##  Fitur Utama
+#  Fitur Utama
 
 -  **Daftar Mahasiswa**  
   Menampilkan semua data mahasiswa yang telah ditambahkan.
@@ -30,7 +30,6 @@ Aplikasi web berbasis **JSP + Servlet + MySQL** untuk mengelola data mahasiswa s
 - Bootstrap 5 (untuk tampilan antarmuka)
 - JDBC (untuk koneksi database)
 
----
 
 ## 🔧 Cara Build dan Menjalankan Aplikasi
 
