@@ -1,35 +1,25 @@
 # Mahasiswa_22110595AndrianMaulana
 
-# 🎓 Sistem Informasi Mahasiswa (SIM)
+#  Sistem Informasi Mahasiswa (SIM)
 
 Aplikasi web berbasis **JSP + Servlet + MySQL** untuk mengelola data mahasiswa seperti **NIM**, **nama**, dan **nilai**. Aplikasi ini cocok digunakan untuk keperluan pembelajaran CRUD (Create, Read, Update, Delete) sederhana menggunakan Java Web.
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
-- 📋 **Daftar Mahasiswa**  
+-  **Daftar Mahasiswa**  
   Menampilkan semua data mahasiswa yang telah ditambahkan.
 
-- ➕ **Tambah Mahasiswa**  
+-  **Tambah Mahasiswa**  
   Menambahkan data baru ke dalam sistem.
 
-- ✏️ **Edit Mahasiswa**  
+-  **Edit Mahasiswa**  
   Mengubah data mahasiswa secara langsung.
 
-- 🗑️ **Hapus Mahasiswa**  
+-  **Hapus Mahasiswa**  
   Menghapus data mahasiswa dari database.
 
----
-
-## 📸 Tampilan Antarmuka
-
-### Halaman Daftar Mahasiswa
-![Daftar Mahasiswa](screenshots/daftar-mahasiswa.png)
-
-> 💡 Simpan gambar screenshot ke folder `screenshots/` dalam project.
-
----
 
 ## 🛠 Aplikasi yang Digunakan
 
